@@ -33,4 +33,4 @@ This is how GUI looks like:
   - Maven
 
 ### How to compile it
-Just execute `mvn clean package` command in this folder.
+Just execute `mvn clean package` command in this folder. It will create `target/Ficus-notes-1.0-jar-with-dependencies.jar` file. You can start it with `java -jar target/FicusNotes-1.0-jar-with-dependencies.jar` command.
